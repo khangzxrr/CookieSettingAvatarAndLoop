@@ -1,0 +1,2 @@
+SettingCookieAvatarLoop.exe cookie
+exit
